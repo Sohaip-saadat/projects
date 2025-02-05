@@ -4,7 +4,7 @@
 This project contains the drivers for STM32F103xx microcontroller's GPIO (General Purpose Input/Output) peripheral. The code includes functions for enabling and disabling GPIO clocks, configuring pins for input or output, reading/writing data to GPIO pins, and handling interrupts.
 
 ## File Structure
-1. **stn32f103xx.h**  
+1. **stm32f103xx.h**  
    - Contains the base addresses of the STM32F103xx peripherals, including GPIO, timers, and other peripherals.
    
 2. **stn32f103xx_drivers_gpio.h**  
